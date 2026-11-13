@@ -1,0 +1,54 @@
+body{
+background-color: rgb(207, 139, 216);
+color: #3a3838;
+font-family: Arial, sans-serif;
+max-width: 900px;
+margin: 30px auto;
+padding: 0 20px;
+line-height: 1.6;}
+h1{
+text-align: center;
+font-size: 40px;
+color: #3a3838;}
+h2{
+text-align: center;
+font-size: 35px;}
+.kitas{
+text-align: left;}
+p, li, ol, a{
+font-size: 17px;}
+.pradzia{
+text-align: center;
+font-style: italic;}
+.nuoroda{
+display: block;
+text-align: center;
+font-style: italic;}
+img{
+width: 300px;
+max-width: 100%;
+height: auto;
+border: 2px;
+box-sizing: border-box;}
+.image{
+width: 400px;
+display: block;
+align-items: center;
+margin: 20px auto;}
+.moments{
+width: 350px;
+height: 200px;
+display: block;
+align-items: center;
+margin: 20px auto;
+}
+nav{
+padding: 12px;
+text-align: center;
+border-radius: 10px;}
+nav a{
+display: inline-block;
+color: rgb(98, 100, 99);
+margin: 4px 10px;}
+a{
+text-decoration: none;}
